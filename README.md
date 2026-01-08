@@ -37,18 +37,18 @@ The main objective of this dataset is to:
 
 -------
 
- ## Working of Stock Price Prediction
- ### Step 1 : Data Collection
+## Working of Stock Price Prediction
+### Step 1 : Data Collection
 Historical MSFT stock data is collected from financial sources such as Yahoo Finance.
 ### Step 2 : Data Preprocessing
 - Convert date column to datetime format
 - Sort data by date
 - Handle missing values
 -Normalize prices using MinMaxScaler 
-  ### Step 3 : Feature Selection
+### Step 3 : Feature Selection
 - The Close price is mainly used as the target variable
 - Past prices are used as input features
-  ### Step 4 : Sliding Window Technique
+### Step 4 : Sliding Window Technique
 Previous 30–60 days of stock prices are used to predict the next day price
 ### Step 5 : Model Training
 Models commonly used:
@@ -56,7 +56,7 @@ Models commonly used:
 - LSTM (Long Short-Term Memory)
 - Random Forest
 - XGBoost
-  ### Step 6 : Prediction
+### Step 6 : Prediction
 The trained model predicts future MSFT stock prices based on historical patterns.
 
 --------
