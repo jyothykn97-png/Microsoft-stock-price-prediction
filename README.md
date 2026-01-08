@@ -8,19 +8,19 @@ The dataset helps understand market trends, price behavior, and future price for
 -------
 
  ## Dataset Attributes
--Date :Trading date
+- Date :Trading date
 
--Open :Opening price of the stock
+- Open :Opening price of the stock
 
--High :Highest price during the day
+- High :Highest price during the day
 
--Low :Lowest price during the day
+- Low :Lowest price during the day
 
--Close :Closing price of the stock
+- Close :Closing price of the stock
 
--Adj Close :Adjusted closing price
+- Adj Close :Adjusted closing price
 
--Volume :Number of shares traded
+- Volume :Number of shares traded
 
 ------
 
