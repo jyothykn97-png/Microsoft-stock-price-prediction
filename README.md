@@ -1,4 +1,4 @@
-# Microsoft-stock-price-prediction dataset
+# Microsoft stock price prediction dataset
 
 This dataset contains historical stock price data of Microsoft Corporation (MSFT) collected over multiple years.
 It is designed for time series analysis and stock price prediction using Machine Learning and Deep Learning models.
